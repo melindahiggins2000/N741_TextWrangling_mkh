@@ -46,6 +46,7 @@ library(wordcloud); packageVersion("wordcloud")
 library(RColorBrewer); packageVersion("RColorBrewer")
 library(janitor); packageVersion("janitor")
 library(tidytext); packageVersion("tidytext")
+library(stopwords); packageVersion("stopwords")
 ```
 
 ## Text Wrangling - Hamlet
